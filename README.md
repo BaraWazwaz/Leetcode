@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BaraWAZ2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/BaraWAZ2/Leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaraWAZ2/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaraWAZ2/Leetcode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
 ## String Matching
 |  |
@@ -68,5 +70,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
