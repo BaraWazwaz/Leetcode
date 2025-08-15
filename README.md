@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/BaraWAZ2/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/BaraWAZ2/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BaraWAZ2/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/BaraWAZ2/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0871-keys-and-rooms](https://github.com/BaraWAZ2/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/BaraWAZ2/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/BaraWAZ2/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BaraWAZ2/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/BaraWAZ2/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0871-keys-and-rooms](https://github.com/BaraWAZ2/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
@@ -97,10 +99,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/BaraWAZ2/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/BaraWAZ2/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BaraWAZ2/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/BaraWAZ2/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0871-keys-and-rooms](https://github.com/BaraWAZ2/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/BaraWAZ2/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BaraWAZ2/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/BaraWAZ2/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
