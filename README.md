@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/BaraWAZ2/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
+| [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String Matching
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
