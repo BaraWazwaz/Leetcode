@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/BaraWazwaz/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -167,12 +168,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
