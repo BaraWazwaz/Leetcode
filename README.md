@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BaraWAZ2/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
 | ------- |
@@ -53,10 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/BaraWAZ2/Leetcode/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/BaraWAZ2/Leetcode/tree/master/0133-clone-graph) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BaraWAZ2/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String Matching
 |  |
 | ------- |
@@ -195,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/BaraWazwaz/Leetcode/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
