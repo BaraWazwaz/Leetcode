@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BaraWAZ2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BaraWAZ2/Leetcode/tree/master/0038-count-and-say) |
+| [1668-maximum-repeating-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BaraWAZ2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
