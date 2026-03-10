@@ -1,20 +1,29 @@
 class Solution {
+    string* str;
+    int start, length, n;
+    void check(int i, int j) {
+        while (0 <= i && j < n)
+            if ((*str)[i] == (*str)[j])
+                --i, ++j;
+            else
+                break;
+        ++i, --j;
+        int len = j - i + 1;
+        if (len > length) {
+            length = len;
+            start = i;
+        }
+    }
 public:
     string longestPalindrome(string s) {
-        int n = s.size();
-        auto dp = vector(n, vector(n + 1, false));
-        // dp[start][end] = is s[start:len] a palindrom ?
+        str = &s;
+        start = 0;
+        length = 1;
+        n = s.size();
         for (int i = 0; i < n; ++i)
-            dp[i][1] = true;
-        for (int i = 0; i < n - 1; ++i)
-            dp[i][2] = s[i] == s[i + 1];
-        for (int len = 3; len <= n; ++len)
-            for (int i = 0; i + len <= n; ++i)
-                dp[i][len] = dp[i + 1][len - 2] && s[i] == s[i + len - 1];
-        for (int len = n; len >= 1; --len)
-            for (int i = 0; i < n; ++i)
-                if (dp[i][len])
-                    return s.substr(i, len);
-        return "";
+            check(i, i);
+        for (int i = 1; i < n; ++i)
+            check(i - 1, i);
+        return s.substr(start, length);
     }
 };
