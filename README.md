@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
 | [0119-pascals-triangle-ii](https://github.com/BaraWazwaz/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaraWazwaz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/BaraWazwaz/Leetcode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -182,4 +183,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/BaraWazwaz/Leetcode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/BaraWazwaz/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/BaraWazwaz/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
