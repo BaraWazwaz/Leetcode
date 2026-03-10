@@ -6,8 +6,11 @@ class Solution {
 public:
     int rand10() {
         int value;
-        do value = (rand7() - 1) + 7 * (rand7() - 1);
-        while (value >= 40);
-        return value / 4 + 1;
+        do value = 1 * (rand7() - 1) + 
+                   7 * (rand7() - 1) + 
+                   49 * (rand7() - 1) +
+                   343 * (rand7() - 1);
+        while (value == 2400);
+        return (value / 240) + 1;
     }
 };
