@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BaraWazwaz/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
+| [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -162,4 +163,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
