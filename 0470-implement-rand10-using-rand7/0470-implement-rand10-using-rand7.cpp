@@ -7,10 +7,8 @@ public:
     int rand10() {
         int value;
         do value = 1 * (rand7() - 1) + 
-                   7 * (rand7() - 1) + 
-                   49 * (rand7() - 1) +
-                   343 * (rand7() - 1);
-        while (value == 2400);
-        return (value / 240) + 1;
+                   7 * (rand7() - 1);
+        while (value > 39);
+        return (value >> 2) + 1;
     }
 };
