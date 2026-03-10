@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/BaraWAZ2/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/BaraWAZ2/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/BaraWAZ2/Leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/BaraWazwaz/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
