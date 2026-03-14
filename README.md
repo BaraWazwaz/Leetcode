@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2961-double-modular-exponentiation](https://github.com/BaraWazwaz/Leetcode/tree/master/2961-double-modular-exponentiation) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2961-double-modular-exponentiation](https://github.com/BaraWazwaz/Leetcode/tree/master/2961-double-modular-exponentiation) |
 ## String Matching
 |  |
 | ------- |
@@ -203,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Simulation
+|  |
+| ------- |
+| [2961-double-modular-exponentiation](https://github.com/BaraWazwaz/Leetcode/tree/master/2961-double-modular-exponentiation) |
 <!---LeetCode Topics End-->
