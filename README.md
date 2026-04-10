@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [1025-divisor-game](https://github.com/BaraWazwaz/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2961-double-modular-exponentiation](https://github.com/BaraWazwaz/Leetcode/tree/master/2961-double-modular-exponentiation) |
 ## Recursion
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaraWazwaz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/BaraWAZ2/Leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/BaraWAZ2/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1025-divisor-game](https://github.com/BaraWazwaz/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
@@ -214,8 +216,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/BaraWazwaz/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/BaraWazwaz/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
