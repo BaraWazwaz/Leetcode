@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BaraWazwaz/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/BaraWazwaz/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/BaraWazwaz/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -209,4 +210,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2961-double-modular-exponentiation](https://github.com/BaraWazwaz/Leetcode/tree/master/2961-double-modular-exponentiation) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
