@@ -239,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/BaraWazwaz/Leetcode/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
