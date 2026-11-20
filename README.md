@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BaraWAZ2/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaraWAZ2/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaraWAZ2/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BaraWAZ2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BaraWAZ2/Leetcode/tree/master/0061-rotate-list) |
 ## Array
 |  |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BaraWAZ2/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BaraWAZ2/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
 | [0119-pascals-triangle-ii](https://github.com/BaraWazwaz/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaraWazwaz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/BaraWazwaz/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/BaraWazwaz/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BaraWazwaz/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/BaraWazwaz/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -222,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BaraWazwaz/Leetcode/tree/master/1025-divisor-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
