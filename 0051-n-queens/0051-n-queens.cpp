@@ -1,72 +1,55 @@
 class Solution {
 private:
-
-    // movement and bounds
-    bool bounded(int x, int y, int n) {
-        return 0 <= x && x < n && 0 <= y && y < n;
-    }
-    static constexpr int dx[8] = { +1, +0, -1, +0, +1, -1, -1, +1 };
-    static constexpr int dy[8] = { +0, +1, +0, -1, +1, +1, -1, -1 };
-
-    // data structures
-    vector<vector<string>> total;
+    int n;
+    int cnt;
+    vector<vector<string>> ans;
     vector<string> current;
-    set<pair<int,int>> usableIndices;
-
-    // recursion function
-    void recur(int countPlaced) {
-        int n = current.size();
-
-        // base statement
-        if (usableIndices.empty()) {
-            if (countPlaced == n)
-                total.push_back(current);
+    vector<bool> row, col, d1, d2;
+    void recur(int i, int j) {
+        if (i == n) {
+            if (cnt == n)
+                ans.push_back(current);
             return;
         }
-
-        // loop over possible squares
-        auto copy = usableIndices;
-        vector<pair<int,int>> dontUse;
-        for (auto& [x, y] : copy) {
-            vector<pair<int,int>> removed;
-            usableIndices.erase({x, y});
-            dontUse.push_back({x, y});
-            for (int dir = 0; dir < 8; ++dir) {
-                for (int mag = 1; mag < n; ++mag) {
-                    int xi = x + dx[dir] * mag;
-                    int yi = y + dy[dir] * mag;
-                    if (bounded(xi, yi, n)) {
-                        auto it = usableIndices.find({xi, yi});
-                        if (it != usableIndices.end()) {
-                            usableIndices.erase(it);
-                            removed.push_back({xi, yi});
-                        }
-                    }
-                    else
-                        break;
-                }
-            }
-            current[x][y] = 'Q';
-            recur(countPlaced + 1);
-            for (auto& [xi, yi] : removed)
-                usableIndices.insert({xi, yi});
-            current[x][y] = '.';
+        if (
+            !row[i] &&
+            !col[j] &&
+            !d1[i - j + n] &&
+            !d2[i + j]
+        ) {
+            ++cnt;
+            current[i][j] = 'Q';
+            row[i] = true;
+            col[j] = true;
+            d1[i - j + n] = true;
+            d2[i + j] = true;
+            if (j == n - 1)
+                recur(i + 1, 0);
+            else
+                recur(i, j + 1);
+            --cnt;
+            current[i][j] = '.';
+            row[i] = false;
+            col[j] = false;
+            d1[i - j + n] = false;
+            d2[i + j] = false;
         }
-        for (auto& [x, y] : dontUse)
-            usableIndices.insert({x, y});
+        if (j == n - 1)
+            recur(i + 1, 0);
+        else
+            recur(i, j + 1);
     }
-
 public:
-
-    // master method
     vector<vector<string>> solveNQueens(int n) {
-        total.clear();
-        current.assign(n, string(n, '.'));
-        usableIndices.clear();
-        for (int x = 0; x < n; ++x)
-            for (int y = 0; y < n; ++y)
-                usableIndices.insert({x, y});
-        recur(0);
-        return total;
+        this->n = n;
+        cnt = 0;
+        ans = {};
+        current = vector(n, string(n, '.'));
+        row = vector(n, false);
+        col = vector(n, false);
+        d1 = vector(2 * n - 1, false);
+        d2 = vector(2 * n - 1, false);
+        recur(0, 0);
+        return ans;
     }
 };
