@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/BaraWAZ2/Leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/BaraWazwaz/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BaraWazwaz/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/BaraWazwaz/Leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/BaraWAZ2/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/BaraWazwaz/Leetcode/tree/master/0292-nim-game) |
 | [0470-implement-rand10-using-rand7](https://github.com/BaraWazwaz/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/BaraWazwaz/Leetcode/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/BaraWazwaz/Leetcode/tree/master/0089-gray-code) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/BaraWazwaz/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
