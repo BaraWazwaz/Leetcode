@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/BaraWAZ2/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/BaraWazwaz/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
 | [0119-pascals-triangle-ii](https://github.com/BaraWazwaz/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaraWazwaz/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/BaraWazwaz/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/BaraWAZ2/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/BaraWazwaz/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/BaraWAZ2/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/BaraWazwaz/Leetcode/tree/master/0089-gray-code) |
 ## Matrix
