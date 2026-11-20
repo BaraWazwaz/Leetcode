@@ -235,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BaraWazwaz/Leetcode/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BaraWazwaz/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
